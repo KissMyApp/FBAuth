@@ -1,0 +1,6 @@
+framework module Pods_FBAuth {
+  umbrella header "Pods-FBAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}
